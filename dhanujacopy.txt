@@ -1,0 +1,1 @@
+consonents : 68; vowels : 47; digits : 1
